@@ -1,0 +1,71 @@
+c:\users\xtreme computers\documents\visual studio 2010\Projects\crime ms\crime ms\bin\Debug\crime ms.exe
+c:\users\xtreme computers\documents\visual studio 2010\Projects\crime ms\crime ms\bin\Debug\crime ms.pdb
+c:\users\xtreme computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Form1.resources
+c:\users\xtreme computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Properties.Resources.resources
+c:\users\xtreme computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime ms.csproj.GenerateResource.Cache
+c:\users\xtreme computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime ms.exe
+c:\users\xtreme computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime ms.pdb
+C:\Users\Xtreme Computers\Documents\Visual Studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime ms.csprojResolveAssemblyReference.cache
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Form2.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Form3.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Form4.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Form5.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Form6.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\crime ms\crime ms\obj\x86\Debug\crime_ms.Form7.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.exe
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.pdb
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\bin\Debug\crime ms.exe
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\bin\Debug\crime ms.pdb
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form1.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form2.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form3.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form4.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form5.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form6.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form7.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Properties.Resources.resources
+C:\Users\Haier\Downloads\Compressed\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\bin\Debug\crime ms.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\bin\Debug\crime ms.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form1.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form2.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form3.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form4.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form5.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form6.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form7.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Properties.Resources.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\bin\Debug\crime ms.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\bin\Debug\crime ms.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form1.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form2.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form3.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form4.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form5.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form6.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Form7.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime_ms.Properties.Resources.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister project\c sharp project\crime ms\crime ms\obj\x86\Debug\crime ms.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime ms.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime ms.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\bin\Debug\crime ms.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\bin\Debug\crime ms.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime ms.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form1.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form2.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form3.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form4.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form5.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form6.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form7.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Properties.Resources.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime ms.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\crime ms\crime ms\crime ms\obj\x86\Debug\crime_ms.Form8.resources
